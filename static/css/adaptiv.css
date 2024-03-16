@@ -1,0 +1,104 @@
+/* Adaptiv */
+
+@media(max-width: 1380px) {
+    .nav__row-social {
+        display: none;
+    }
+}
+
+@media(max-width: 782px) {
+    .nav__row-list--list li a {
+        font-size: 10px;
+    }
+
+    .logo {
+        max-width: 100px;
+    }
+
+    .title-1 {
+        font-size: 20px;
+    }
+    .nav {
+        width: 100%;
+    }
+
+    .about .container{
+        max-width: 500px;
+    }
+
+    .title-left {
+        font-size: 30px;
+    }
+
+    .thematic-card__item {
+        max-width: 40px;
+    }
+
+    .thematic-img {
+        max-width: 20px;
+    }
+
+    .title-3 {
+        font-size: 15px;
+    }
+
+    .thematic-card__row {
+        gap: 10px;
+    }
+
+    .thematic-card .container {
+        padding-left: 0;
+    }
+}
+
+@media(max-width:1163px) {
+    .title-1 {
+        font-size: 100px;
+    }
+}
+
+@media(max-width:1007px) {
+    .title-1 {
+        font-size: 80px;
+    }
+    .header__info-count {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:886px) {
+    .title-1 {
+        font-size: 50px;
+    }
+
+    .about__info-years--card {
+        width: 1000px;
+    }
+
+    .about__info-years {
+        gap: 38px;
+    }
+
+    
+}
+
+@media(max-width:426px) {
+    .about .container {
+        padding: 0 50px;
+    }
+
+    
+}
+@media(max-width:1200px) {
+    .about__row{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .info-card {
+        width: 80%;
+    }
+
+    
+}
+
