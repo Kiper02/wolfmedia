@@ -393,9 +393,6 @@ body {
     transform: rotate(180deg);
 }
 
-.arrow-next:hover  {
-    transform: scale(1.2);
-}
 
 .arrow-prev:hover {
     transform: rotate(180deg) scale(1.2);
