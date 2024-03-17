@@ -99,6 +99,22 @@ li {
         flex-direction: column;
     }
 
+    .arrow-next, .arrow-prev {
+        width: 11.91px;
+    }
+
+    .marketing__card__row {
+        gap: 10px;
+    }
+
+    .title-3-marketing {
+        font-size: 12px;
+    }
+
+    .btn-marketing {
+        margin-top: 50px;
+    }
+
     .thematic-card {
         display: flex;
         flex-directions: column;
