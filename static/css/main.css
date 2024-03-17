@@ -382,7 +382,7 @@ body {
 
     transition: all 0.2s ease-in;
     cursor: pointer;
-    transform: translateX(-50%);
+    transform: translateY(-50%);
 }
 
 .arrow-next {
